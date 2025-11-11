@@ -10,5 +10,6 @@ This project visualizes global COVID-19 data using Tableau and Excel. It highlig
 
 ![Dashboard Preview](outputs/dashboard_preview.png)
 
+
 ---
 
